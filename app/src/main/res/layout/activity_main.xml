@@ -112,6 +112,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_41"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -119,6 +120,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ୡ"/>
                 <Button
+                    android:id="@+id/button_42"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -126,6 +128,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଏ"/>
                 <Button
+                    android:id="@+id/button_43"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -139,6 +142,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_51"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -146,6 +150,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଓ"/>
                 <Button
+                    android:id="@+id/button_52"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -153,6 +158,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଔ"/>
                 <Button
+                    android:id="@+id/button_53"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -166,6 +172,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_61"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -173,6 +180,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଖ"/>
                 <Button
+                    android:id="@+id/button_62"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -180,6 +188,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଗ"/>
                 <Button
+                    android:id="@+id/button_63"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -193,6 +202,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_71"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -200,6 +210,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଙ"/>
                 <Button
+                    android:id="@+id/button_72"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -207,6 +218,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଚ"/>
                 <Button
+                    android:id="@+id/button_73"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -220,6 +232,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_81"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -227,6 +240,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଜ"/>
                 <Button
+                    android:id="@+id/button_82"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -234,6 +248,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଝ"/>
                 <Button
+                    android:id="@+id/button_83"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -247,6 +262,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_91"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -254,6 +270,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଟ"/>
                 <Button
+                    android:id="@+id/button_92"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -261,6 +278,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଠ"/>
                 <Button
+                    android:id="@+id/button_93"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -274,6 +292,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_101"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -281,6 +300,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଢ"/>
                 <Button
+                    android:id="@+id/button_102"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -288,6 +308,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଣ"/>
                 <Button
+                    android:id="@+id/button_103"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -301,6 +322,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_111"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -308,6 +330,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଥ"/>
                 <Button
+                    android:id="@+id/button_112"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -315,6 +338,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଦ"/>
                 <Button
+                    android:id="@+id/button_113"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -322,6 +346,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଧ"/>
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -329,6 +354,7 @@
                 android:orientation="horizontal">
 
                 <Button
+                    android:id="@+id/button_121"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:layout_marginLeft="10dp"
@@ -337,6 +363,7 @@
                     android:textSize="70sp" />
 
                 <Button
+                    android:id="@+id/button_122"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -344,6 +371,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ପ"/>
                 <Button
+                    android:id="@+id/button_123"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -351,12 +379,14 @@
                     android:layout_marginRight="10dp"
                     android:text="ଫ"/>
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_131"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -364,6 +394,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ବ"/>
                 <Button
+                    android:id="@+id/button_132"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -371,6 +402,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଭ"/>
                 <Button
+                    android:id="@+id/button_133"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -378,12 +410,14 @@
                     android:layout_marginRight="10dp"
                     android:text="ମ"/>
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_141"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -391,6 +425,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଯ"/>
                 <Button
+                    android:id="@+id/button_142"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -398,6 +433,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ୟ"/>
                 <Button
+                    android:id="@+id/button_143"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -405,12 +441,14 @@
                     android:layout_marginRight="10dp"
                     android:text="ର"/>
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_151"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -418,6 +456,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଲ"/>
                 <Button
+                    android:id="@+id/button_152"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -425,6 +464,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଳ"/>
                 <Button
+                    android:id="@+id/button_153"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -432,12 +472,14 @@
                     android:layout_marginRight="10dp"
                     android:text="ୱ"/>
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_161"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -445,6 +487,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଶ"/>
                 <Button
+                    android:id="@+id/button_162"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -452,6 +495,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ଷ"/>
                 <Button
+                    android:id="@+id/button_163"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -465,6 +509,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/button_171"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -472,6 +517,7 @@
                     android:layout_marginRight="10dp"
                     android:text="ହ"/>
                 <Button
+                    android:id="@+id/button_172"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
@@ -479,6 +525,7 @@
                     android:layout_marginRight="10dp"
                     android:text="‍ଓ‍ଁ"/>
                 <Button
+                    android:id="@+id/button_173"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:textSize="70sp"
