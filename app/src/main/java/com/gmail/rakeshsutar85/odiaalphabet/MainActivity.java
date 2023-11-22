@@ -311,7 +311,145 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button button121 = (Button) this.findViewById(R.id.button_121);
+        final MediaPlayer mp121 = MediaPlayer.create(this, R.raw.naa);
+        button121.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp121.start();
+            }
+        });
 
+        Button button122 = (Button) this.findViewById(R.id.button_122);
+        final MediaPlayer mp122 = MediaPlayer.create(this, R.raw.paa);
+        button122.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp122.start();
+            }
+        });
+
+        Button button123 = (Button) this.findViewById(R.id.button_123);
+        final MediaPlayer mp123 = MediaPlayer.create(this, R.raw.phaa);
+        button123.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp123.start();
+            }
+        });
+
+        Button button131 = (Button) this.findViewById(R.id.button_131);
+        final MediaPlayer mp131 = MediaPlayer.create(this, R.raw.baa);
+        button131.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp131.start();
+            }
+        });
+
+        Button button132 = (Button) this.findViewById(R.id.button_132);
+        final MediaPlayer mp132 = MediaPlayer.create(this, R.raw.bhaa);
+        button132.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp132.start();
+            }
+        });
+
+        Button button133 = (Button) this.findViewById(R.id.button_133);
+        final MediaPlayer mp133 = MediaPlayer.create(this, R.raw.maa);
+        button133.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp133.start();
+            }
+        });
+
+        Button button141 = (Button) this.findViewById(R.id.button_141);
+        final MediaPlayer mp141 = MediaPlayer.create(this, R.raw.jaa2);
+        button141.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp141.start();
+            }
+        });
+
+
+        Button button142 = (Button) this.findViewById(R.id.button_142);
+        final MediaPlayer mp142 = MediaPlayer.create(this, R.raw.eiya);
+        button142.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp142.start();
+            }
+        });
+
+        Button button143 = (Button) this.findViewById(R.id.button_143);
+        final MediaPlayer mp143 = MediaPlayer.create(this, R.raw.raa);
+        button143.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp143.start();
+            }
+        });
+
+        Button button151 = (Button) this.findViewById(R.id.button_151);
+        final MediaPlayer mp151 = MediaPlayer.create(this, R.raw.laaa);
+        button151.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp151.start();
+            }
+        });
+
+        Button button152 = (Button) this.findViewById(R.id.button_152);
+        final MediaPlayer mp152 = MediaPlayer.create(this, R.raw.alaaa);
+        button152.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp152.start();
+            }
+        });
+
+
+        Button button161 = (Button) this.findViewById(R.id.button_161);
+        final MediaPlayer mp161 = MediaPlayer.create(this, R.raw.saaa);
+        button161.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp161.start();
+            }
+        });
+
+        Button button162 = (Button) this.findViewById(R.id.button_162);
+        final MediaPlayer mp162 = MediaPlayer.create(this, R.raw.saaa);
+        button162.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp162.start();
+            }
+        });
+
+        Button button163 = (Button) this.findViewById(R.id.button_163);
+        final MediaPlayer mp163 = MediaPlayer.create(this, R.raw.saaa);
+        button163.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp163.start();
+            }
+        });
+
+
+
+
+        Button button171 = (Button) this.findViewById(R.id.button_171);
+        final MediaPlayer mp171 = MediaPlayer.create(this, R.raw.haaa);
+        button171.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mp171.start();
+            }
+        });
 
     }
 }
